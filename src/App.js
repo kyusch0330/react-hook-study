@@ -1,3 +1,5 @@
+// import Component from "./components/00_useEffect/Component";
+// import Component from "./components/00_useContext/Component";
 // import Component from "./components/01_useInput/Component";
 // import Component from "./components/02_useTabs/Component";
 // import Component from "./components/03_useTitle/Component";
@@ -8,7 +10,9 @@
 // import Component from "./components/08_useFadeIn/Component";
 // import Component from "./components/09_useNetwork/Component";
 // import Component from "./components/10_useScroll/Component";
-import Component from "./components/11_useFullscreen/Component";
+// import Component from "./components/11_useFullscreen/Component";
+// import Component from "./components/12_useNotification/Component";
+import Component from "./components/13_useAxios/Component";
 
 import "./App.css";
 
